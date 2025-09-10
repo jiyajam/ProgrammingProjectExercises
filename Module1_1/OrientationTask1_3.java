@@ -1,6 +1,5 @@
 public class OrientationTask1_3 {
 
-
     static class Customer {
         private static int nextId = 1;
         private int id;
